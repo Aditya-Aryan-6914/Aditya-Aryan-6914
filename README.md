@@ -1,4 +1,4 @@
-# Hi, I’m Aditya Aryan 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hi%2C+I+am+Aditya+Aryan%F0%9F%98%8E;Loves+to+do+Open+Source+;Student+%7C+Thinker+%7C+Problem+Solver" alt="Typing SVG" />
 I am doing my B. Tech in AI/ML from KIT's College of Engineering and BS in Data Science from Indian Institute of Technology, Madras
 I’m an engineering student interested in **cloud-native technologies and open-source development**, currently contributing to **CNCF projects**.
 
