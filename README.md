@@ -5,7 +5,7 @@ I’m an engineering student interested in **cloud-native technologies and open-
 ---
 
 ## 💻 Skills
-- **Languages:** Python, C, HTML, CSS  
+- **Languages:** Python, C, HTML5, CSS3, Tailwind, Django 
 - **Tools & Concepts:** Git, GitHub, Linux (CLI), Docker (basics), Kubernetes (fundamentals)  
 - **Interests:** Cloud Native, DevOps, Observability, Security
 
